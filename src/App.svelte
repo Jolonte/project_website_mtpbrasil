@@ -37,7 +37,7 @@
                     </li>
                 </ul>
             </div>
-            <button class="font-semibold text-white mt-[0.5rem] py-[0.625rem] px-[1.125rem] rounded-[0.938rem] bg-blue-600 ">Mais informações</button>
+            <button class="w-fit font-semibold text-white mt-[0.5rem] py-[0.625rem] px-[1.125rem] rounded-[0.938rem] bg-blue-600 ">Mais informações</button>
             <img class="mt-[3rem] w-[35rem]" src="/hero_image.svg" alt="Imagem: Trabalho em equipe">
         </div>
     </header>
@@ -53,7 +53,7 @@
             <p class="font-bold text-blue-600">Conheça todos os nossos clientes ></p>
         </div>
         <div class="flex flex-col py-[9.5rem]">
-            <section class="flex flex-col items-center text-center gap-[4.5rem]">
+            <section class="flex flex-col items-center text-center gap-[4.5rem] mb-[11.688rem]">
                 <div class="flex flex-col items-center gap-[1.438rem]">
                     <h2 class="text-4xl font-bold capitalize"><span class="text-blue-600">Potencializando</span> seu <span class="text-blue-600">sucesso</span> com nossos serviços</h2>
                     <p class="w-2/4">A MTP é líder em Serviços de Garantia Digital, com 25 anos de experiência global. Seu compromisso com a qualidade, inovação e adaptação às mudanças do mercado é integrado ao ambiente de Digital Business Assurance.</p>
@@ -89,6 +89,18 @@
                     </div>
                 </div>
                 <button class="w-fit font-semibold text-white mt-[0.5rem] py-[0.625rem] px-[1.125rem] rounded-[0.938rem] bg-blue-600 ">Mais informações</button>
+            </section>
+            <!-- objeto com "props" que da para por html dentro -->
+            <section class="flex flex-col items-center text-center gap-[4.5rem]">
+                <div class="flex flex-col items-center gap-[1.438rem]">
+                    <h2 class="text-4xl font-bold capitalize">Nossas certificações</h2>
+                    <p class="w-2/4">Buscamos constantemente certificações e aprimoramento de qualidade atestando a conformidade do nosso sistema aos mais rigorosos padrões internacionais.</p>
+                </div>
+                <div class="flex gap-[4.5rem]">
+                    <img class="h-48" src="/certification1.png" alt="Great place to work">
+                    <img class="h-48" src="/certification2.png" alt="ISO 9001">
+                    <img class="h-48" src="/certification3.png" alt="ISO 27001">
+                </div>
             </section>
         </div>
     </main>
