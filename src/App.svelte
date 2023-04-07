@@ -125,7 +125,7 @@
                 </div>
             </section>
             <!-- objeto com "props" que da para por html dentro -->
-            <section class="flex flex-col items-center text-center gap-[4.5rem]">
+            <section class="flex flex-col items-center text-center gap-[4.5rem] mb-[7.5rem]">
                 <div class="flex flex-col items-center gap-[1.438rem]">
                     <h2 class="text-4xl font-bold capitalize text-[#2f2e41]">Nossas certificações</h2>
                     <p class="w-2/4">Buscamos constantemente certificações e aprimoramento de qualidade atestando a conformidade do nosso sistema aos mais rigorosos padrões internacionais.</p>
@@ -134,6 +134,17 @@
                     <img class="h-48" src="/certification1.png" alt="Great place to work">
                     <img class="h-48" src="/certification2.png" alt="ISO 9001">
                     <img class="h-48" src="/certification3.png" alt="ISO 27001">
+                </div>
+            </section>
+            <section class="flex flex-col gap-[2rem] px-[12.25rem]">
+                <div class="flex flex-col items-start gap-[1.438rem]">
+                    <h2 class="text-4xl font-bold capitalize text-[#2f2e41]">Últimas postagens</h2>
+                    <p class="font-bold text-blue-600">Ver blog completo ></p>
+                </div>
+                <div class="flex justify-evenly gap-[2rem]">
+                    <div class="h-[20rem] w-[20rem] rounded-[0.938rem] bg-black"></div>
+                    <div class="h-[20rem] w-[20rem] rounded-[0.938rem] bg-black"></div>
+                    <div class="h-[20rem] w-[20rem] rounded-[0.938rem] bg-black"></div>
                 </div>
             </section>
         </div>
