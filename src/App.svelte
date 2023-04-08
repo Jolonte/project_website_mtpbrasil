@@ -89,7 +89,7 @@
                 </div>
                 <button class="w-fit font-semibold text-white mt-[0.5rem] py-[0.625rem] px-[1.125rem] rounded-[0.938rem] bg-blue-600 ">Mais informações</button>
             </section>
-            <section class="flex flex-col items-center py-[7.5rem] px-[12.25rem] bg-[#2f2e41] mb-[7.5rem] gap-[2rem]">
+            <section class="flex flex-col items-center py-[11.688rem] px-[12.25rem] bg-[#2f2e41] mb-[7.5rem] gap-[2rem]">
                 <div class="flex flex-col items-center gap-[2rem]">
                     <h2 class="text-4xl font-semibold text-white">Entre em contato</h2>
                     <div class="flex justify-center gap-[1.5rem]">
@@ -136,8 +136,8 @@
                     <img class="h-48" src="/certification3.png" alt="ISO 27001">
                 </div>
             </section>
-            <section class="flex flex-col gap-[2rem] px-[12.25rem]">
-                <div class="flex flex-col items-start gap-[1.438rem]">
+            <section class="flex flex-col gap-[2rem] px-[12.25rem] mb-[7.5rem]">
+                <div class="flex flex-col items-start gap-[1rem]">
                     <h2 class="text-4xl font-bold capitalize text-[#2f2e41]">Últimas postagens</h2>
                     <p class="font-bold text-blue-600">Ver blog completo ></p>
                 </div>
@@ -145,6 +145,48 @@
                     <div class="h-[20rem] w-[20rem] rounded-[0.938rem] bg-black"></div>
                     <div class="h-[20rem] w-[20rem] rounded-[0.938rem] bg-black"></div>
                     <div class="h-[20rem] w-[20rem] rounded-[0.938rem] bg-black"></div>
+                </div>
+            </section>
+            <section class="flex flex-col gap-[3.5rem] px-[12.25rem] mb-[7.5rem]">
+                <div class="flex flex-col items-start gap-[1rem]">
+                    <h2 class="text-4xl font-bold capitalize text-[#2f2e41]">Perguntas frequentes</h2>
+                </div>
+                <div class="flex flex-col gap-[2rem]">
+                    <div class="flex flex-col gap-[0.5rem]">
+                        <div class="flex justify-between">
+                            <h3 class="font-bold text-xl">asdasdasds?</h3>
+                            <i class="material-symbols-outlined text-blue-600 text-4xl">expand_more</i>
+                        </div>
+                        <hr class="border-b-[0.1rem] border-blue-600">
+                    </div>
+                    <div class="flex flex-col gap-[0.5rem]">
+                        <div class="flex justify-between">
+                            <h3 class="font-bold text-xl">asdasdasds?</h3>
+                            <i class="material-symbols-outlined text-blue-600 text-4xl">expand_more</i>
+                        </div>
+                        <hr class="border-b-[0.1rem] border-blue-600">
+                    </div>
+                    <div class="flex flex-col gap-[0.5rem]">
+                        <div class="flex justify-between">
+                            <h3 class="font-bold text-xl">asdasdasds?</h3>
+                            <i class="material-symbols-outlined text-blue-600 text-4xl">expand_more</i>
+                        </div>
+                        <hr class="border-b-[0.1rem] border-blue-600">
+                    </div>
+                    <div class="flex flex-col gap-[0.5rem]">
+                        <div class="flex justify-between">
+                            <h3 class="font-bold text-xl">asdasdasds?</h3>
+                            <i class="material-symbols-outlined text-blue-600 text-4xl">expand_more</i>
+                        </div>
+                        <hr class="border-b-[0.1rem] border-blue-600">
+                    </div>
+                    <div class="flex flex-col gap-[0.5rem]">
+                        <div class="flex justify-between">
+                            <h3 class="font-bold text-xl">asdasdasds?</h3>
+                            <i class="material-symbols-outlined text-blue-600 text-4xl">expand_more</i>
+                        </div>
+                        <hr class="border-b-[0.1rem] border-blue-600">
+                    </div>
                 </div>
             </section>
         </div>
